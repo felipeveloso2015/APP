@@ -50,3 +50,7 @@ Functions:
 ## Estrutura de repetição
 
  - [x] While
+
+## Condicionais
+
+ - [x] Switch
