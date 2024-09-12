@@ -6,43 +6,43 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 ## Peças de uma linguagem
 
  - [x] Comentários
- - [ ] Declaração de variáveis (const, let)
- - [ ] Operadores (atribuição, concatenação, matemáticos, lógicos )
- - [ ] Tipos de dados (string, number, boolean)
- - [ ] Estrutura de dados (functions, object, array)
+ - [x] Declaração de variáveis (const, let)
+ - [x] Operadores (atribuição, concatenação, matemáticos, lógicos )
+ - [x] Tipos de dados (string, number, boolean)
+ - [x] Estrutura de dados (functions, object, array)
  - [ ] Controle de fluxo (if/else)
  - [ ] Estrutura de repetição (for, while)
 
 # Fases da resoluão de um problema
 
- - [ ] Coletar dados
- - [ ] Processar dados (manipular, alterar, gerenciar...)
- - [ ] Apresentar dados
+ - [x] Coletar dados
+ - [x] Processar dados (manipular, alterar, gerenciar...)
+ - [x] Apresentar dados
 
 ## Escopo e variáveis
 
- - [ ] Variáveis globais e locais
- - [ ] Constantes
+ - [x] Variáveis globais e locais
+ - [x] Constantes
 
 ## Tipos de dados
 
- - [ ] Strings (textos): "" '' ``
- - [ ] Numbers: 2 1.4
- - [ ] Boolean: true, false
+ - [x] Strings (textos): "" '' ``
+ - [x] Numbers: 2 1.4
+ - [x] Boolean: true, false
 
 ## Operadores
 
- - [ ] Operadores de atribuição de valor: =
- - [ ] Operador de contatenação: +
+ - [x] Operadores de atribuição de valor: =
+ - [x] Operador de contatenação: +
 
 ## Estruturas de dados:
 Arrays: 
- - [ ] Uma lista que contém qualquer tipo de dado
+ - [x] Uma lista que contém qualquer tipo de dado
 Objetos:
- - [ ] Atributos e métodos
- - [ ] Criação e manipulação de objetos
- - [ ] Acesso a propriedades de objetos
+ - [x] Atributos e métodos
+ - [x] Criação e manipulação de objetos
+ - [x] Acesso a propriedades de objetos
 Functions:
- - [ ] criar, passar argumento
- - [ ] excutar
- - [ ] arrow function / named function
+ - [x] criar, passar argumento
+ - [x] excutar
+ - [x] arrow function / named function
