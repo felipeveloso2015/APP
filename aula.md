@@ -46,3 +46,7 @@ Functions:
  - [x] criar, passar argumento
  - [x] excutar
  - [x] arrow function / named function
+
+## Estrutura de repetição
+
+ - [x] While
