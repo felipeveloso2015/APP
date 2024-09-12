@@ -54,3 +54,10 @@ Functions:
 ## Condicionais
 
  - [x] Switch
+
+ ## Módulos em Node.js
+
+ - [x] Importação de módulos (require, CommomJS)
+ - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+ 
