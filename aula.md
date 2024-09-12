@@ -5,13 +5,13 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 
 ## Peças de uma linguagem
 
- - [x] Comentários
- - [x] Declaração de variáveis (const, let)
- - [x] Operadores (atribuição, concatenação, matemáticos, lógicos )
- - [x] Tipos de dados (string, number, boolean)
- - [x] Estrutura de dados (functions, object, array)
- - [ ] Controle de fluxo (if/else)
- - [ ] Estrutura de repetição (for, while)
+ - Comentários
+ - Declaração de variáveis (const, let)
+ - Operadores (atribuição, concatenação, matemáticos, lógicos )
+ - Tipos de dados (string, number, boolean)
+ - Estrutura de dados (functions, object, array)
+ - Controle de fluxo (if/else)
+ - Estrutura de repetição (for, while)
 
 # Fases da resoluão de um problema
 
@@ -34,6 +34,7 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 
  - [x] Operadores de atribuição de valor: =
  - [x] Operador de contatenação: +
+ - [x] Operadores de comparação: == != <= >= < >
 
 ## Estruturas de dados:
 Arrays: 
@@ -54,7 +55,7 @@ Functions:
 ## Condicionais
 
  - [x] Switch
- - [ ] if/else
+ - [x] if/else
 
  ## Módulos em Node.js
 
