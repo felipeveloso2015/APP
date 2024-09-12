@@ -66,6 +66,13 @@ Functions:
 
  - [x] Importação de módulos (require, CommomJS)
  - [x] Biblioteca 'inquirer' para criar prompts interativos
+ - [x] FS (file system)
+
+ ## JSON
+
+ - [x] Javascript Object Notation (.json)
+ - [x] JSON.parse(): transforma de JSON para JS
+ - [x] JSON.stringify(): transforma de JS para JSON
 
  ## Programação assíncrona e Promises
  
