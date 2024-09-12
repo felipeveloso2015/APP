@@ -37,12 +37,16 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
  - [x] Operadores de comparação: == != <= >= < >
 
 ## Estruturas de dados:
+
 Arrays: 
  - [x] Uma lista que contém qualquer tipo de dado
+ - [x] Métodos de array: push, find, forEach
+
 Objetos:
  - [x] Atributos e métodos
  - [x] Criação e manipulação de objetos
  - [x] Acesso a propriedades de objetos
+
 Functions:
  - [x] criar, passar argumento
  - [x] excutar
@@ -63,4 +67,5 @@ Functions:
  - [x] Biblioteca 'inquirer' para criar prompts interativos
 
  ## Programação assíncrona e Promises
-  - [x] Uso de funções assíncronas (async/await)
+ 
+ - [x] Uso de funções assíncronas (async/await)
