@@ -46,7 +46,6 @@ const listarMetas = async () => {
     })
 
     console.log('Meta(s) marcadas como concluída(s)')
-
 }
 
 const metasRealizadas = async () => {
@@ -55,17 +54,31 @@ const metasRealizadas = async () => {
     })
 
     if(realizadas.length == 0) {
-        console.log('Não existem mestas realizadas! :(')
+        console.log("Não existem mestas realizadas! :(")
         return
     }
 
     await select ({
-        message: "Metas realizadas",
+        message: "Metas realizadas " + realizadas.length,
         choices: [...realizadas]
     })
-    console.log(realizadas)
 }
 
+const metasAbertas = async () => {
+    const abertas = metas.filter((meta) => {
+        return meta.checked != true 
+    })
+
+    if(abertas.length == 0) {
+        console.log("Não existem metas abertas! :)")
+    return
+    }
+
+    await select ({
+        message: "Metas abertas " + abertas.length,
+        choices: [...abertas]
+    })
+}
 const start = async () => {
        while(true){
 
